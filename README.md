@@ -6,7 +6,7 @@
 - **CCID:** `suvir1`
 
 ## References and Resources
-N/A
+Gemini Android Studio for code formatting
 List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
